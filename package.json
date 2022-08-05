@@ -2,7 +2,8 @@
   "name": "lcaetano-basic-open-front-stack",
   "private": true,
   "scripts": {
-    "start:dev": "lerna run start:dev --parallel"
+    "prestart": "lerna run build --scope lens-ui --stream",
+    "start": "lerna run start:dev --parallel --stream"
   },
   "workspaces": [
     "packages/*"
