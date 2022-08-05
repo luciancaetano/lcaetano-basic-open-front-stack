@@ -1,0 +1,3 @@
+[submodule "eslint"]
+	path = ./packages/eslint
+	url = https://github.com/luciancaetano/lcaetano-eslint-config.git
