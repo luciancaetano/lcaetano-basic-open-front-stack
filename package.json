@@ -1,5 +1,5 @@
 {
-  "name": "leptonic",
+  "name": "lcaetano-basic-open-front-stack",
   "private": true,
   "workspaces": [
     "packages/*"
