@@ -1,6 +1,9 @@
 {
   "name": "lcaetano-basic-open-front-stack",
   "private": true,
+  "scripts": {
+    "start:dev": "lerna run start:dev --parallel"
+  },
   "workspaces": [
     "packages/*"
   ],
