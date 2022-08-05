@@ -4,3 +4,6 @@
 [submodule "packages/lens-ui"]
   path = packages/lens-ui
   url = https://github.com/luciancaetano/lens-ui.git
+[submodule "packages/starter-app"]
+  path = packages/starter-app
+  url = https://github.com/luciancaetano/lcaetano-front-starter-app.git
