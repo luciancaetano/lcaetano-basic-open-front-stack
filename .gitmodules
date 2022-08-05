@@ -1,0 +1,6 @@
+[submodule "packages/eslint"]
+  path = packages/eslint
+  url = https://github.com/luciancaetano/lcaetano-eslint-config.git
+[submodule "packages/lens-ui"]
+  path = packages/lens-ui
+  url = https://github.com/luciancaetano/lens-ui.git
