@@ -10,3 +10,7 @@
   path = packages/starter-app
   branch = main
   url = https://github.com/luciancaetano/lcaetano-front-starter-app.git
+[submodule "packages/core-ui"]
+  path = packages/core-ui
+  branch = main
+  url = https://github.com/luciancaetano/lcaetano-core-ui.git

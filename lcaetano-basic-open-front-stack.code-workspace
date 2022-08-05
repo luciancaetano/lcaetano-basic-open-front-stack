@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "packages\\starter-app"
+		},
+		{
+			"path": "packages\\core-ui"
 		}
 	],
 	"settings": {}

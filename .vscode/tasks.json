@@ -11,13 +11,22 @@
 		},
 		{
 			"type": "npm",
+			"label": "watch:core-ui",
+			"script": "start:dev",
+			"problemMatcher": "$tsc-watch",
+			"path": "packages/core-ui",
+			"isBackground": true
+		},
+		{
+			"type": "npm",
 			"label": "dev:starter-app",
 			"script": "start:dev",
 			"problemMatcher": [],
 			"path": "packages/starter-app",
 			"dependsOrder": "sequence",
 			"dependsOn": [
-				"watch:lens-ui"
+				"watch:lens-ui",
+				"watch:core-ui"
 			]
 		}
 	]
