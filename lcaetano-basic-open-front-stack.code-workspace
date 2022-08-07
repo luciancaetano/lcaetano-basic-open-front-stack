@@ -19,7 +19,10 @@
 	"settings": {
 		"conventionalCommits.scopes": [
 			"providers",
-			"hooks"
+			"hooks",
+			"elements",
+			"utils",
+			"settings"
 		]
 	}
 }
