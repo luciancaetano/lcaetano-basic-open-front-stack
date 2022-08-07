@@ -16,5 +16,10 @@
 			"path": "packages\\core-ui"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"conventionalCommits.scopes": [
+			"providers",
+			"hooks"
+		]
+	}
 }
