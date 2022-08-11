@@ -22,7 +22,8 @@
 			"hooks",
 			"elements",
 			"utils",
-			"settings"
+			"settings",
+			"theming"
 		]
 	}
 }
